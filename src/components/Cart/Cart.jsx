@@ -2,7 +2,7 @@ import "./Cart.scss";
 import CartItem from "./CartItem/CartItem";
 
 import { MdClose } from "react-icons/md";
-import { BsCartX } from "react-icons/bs";
+// import { BsCartX } from "react-icons/bs";
 const Cart = ({ setShowCart }) => {
   return (
     <div className="cart-panel">
